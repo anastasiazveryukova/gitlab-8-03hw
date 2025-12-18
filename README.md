@@ -47,6 +47,7 @@
 
 <img width="1286" height="951" alt="Снимок экрана 2025-12-18 223908" src="https://github.com/user-attachments/assets/8cc88de6-dce1-483c-8d3a-000f214b5379" />
 
+.gitlab-ci.yml
 ```
 stages:
   - test
